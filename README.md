@@ -2,7 +2,7 @@ Project Status: Phase 1 & Phase 2 Complete
 
 Strategic Overview:
 
-As organizations transition from domestic mid-market operations to complex global footprints, they frequently encounter severe "FX exposure shock" that threatens operating margins. 
+As organizations transition from domestic mid-market operations to complex global footprints, they frequently encounter severe FX exposure shock that threatens operating margins. 
 
 This repository serves as the quantitative risk engine and architectural playbook for a hypothetical $250,000,000 Premium E-Mobility manufacturer aggressively scaling to a $500M global footprint. 
 
